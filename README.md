@@ -12,6 +12,10 @@ Place your datasets in `Datasets/`:
 - `historical_data.csv` — Hyperliquid trade data
 - `fear_greed_index.csv` — Bitcoin Fear & Greed Index
 
+Download links:
+- https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+- https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
 ## Usage
 
 ```bash
@@ -51,4 +55,5 @@ Sentiment Edge/
 
 The Fear & Greed Index is matched to trades by date. Days with missing sentiment data are forward-filled. Liquidation events are flagged separately from normal closes.
 
-Made by Rohit Ranjan Kumar. Contact ranjanrohit908@gmail.com
+Made by Rohit Ranjan Kumar. 
+Contact ranjanrohit908@gmail.com
