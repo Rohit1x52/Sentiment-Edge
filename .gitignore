@@ -30,6 +30,9 @@ Thumbs.db
 /data/processed/
 /data/raw/
 
+# Datasets
+/Datasets/
+
 # Streamlit
 .streamlit/
 
